@@ -1,0 +1,31 @@
+_repo: Olivia-oder-Die-unsichtbare-Lampe_21860
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wassermann, Jakob
+    alias: Wassermann, Jacob
+    birthdate: 1873
+    deathdate: 1934
+    gutenberg_agent_id: '6236'
+    url: http://www.gutenberg.org/2009/agents/6236
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Jakob_Wassermann
+    - http://en.wikipedia.org/wiki/Jakob_Wassermann
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2007-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21860'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Austria -- Fiction'
+title: Olivia oder Die unsichtbare Lampe
+url: http://www.gutenberg.org/ebooks/21860
